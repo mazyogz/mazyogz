@@ -1,8 +1,8 @@
 <div align="center">
   
-  ### Hi there Ari's Here 👋
-  <br />
-  ### **🧪Tech Stack🧪**
+### Hi there Ari's Here 👋
+
+### **🧪Tech Stack🧪**
  
 
 <div>
