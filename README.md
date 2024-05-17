@@ -2,7 +2,7 @@
   
   ### Hi there Ari's Here 👋
   <br />
-   ### **🧪Tech Stack🧪**
+  ### **🧪Tech Stack🧪**
  
 
 <div>
