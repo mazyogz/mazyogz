@@ -62,7 +62,7 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariyogi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazyogz&layout=compact)
 
 </div>
 <!--
