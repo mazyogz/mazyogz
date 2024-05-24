@@ -41,4 +41,4 @@
 </p>
 
 ## Connect with me 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "ari_yog")](https://www.instagram.com/ari_yog) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "ari yogi")]((https://www.linkedin.com/in/ari-pras/))
+[![@mazyogz](https://img.icons8.com/fluency/48/000000/instagram-new.png "ari_yog")](https://www.instagram.com/ari_yog) [![@mazyogz](https://img.icons8.com/fluency/48/000000/linkedin.png "ari yogi")](https://www.linkedin.com/in/ari-pras/)
