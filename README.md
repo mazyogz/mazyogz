@@ -6,9 +6,9 @@
 
 ###
 
-- 🎓 Studies for Informatics Engineering at [UNIKOM](https://www.unikom.ac.id/)
-- 🏡 Lives in **Bandung, Indonesia**
-- 📚 I'm currently learning PHP and Javascript
+- 🎓 Studies for Informatics Systems at [UNMER](https://www.unmer.ac.id/)
+- 🏡 Lives in **Malang, Indonesia**
+- 📚 I'm currently learning Javascript and Python
 
 ###
 
@@ -34,7 +34,7 @@
 
 ## Github Statistic
 <p align="left">
-<a href="https://github.com/Irfanca1">
+<a href="https://github.com/mazyogz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thrqhdyt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Irfanca1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
