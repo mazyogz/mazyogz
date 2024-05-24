@@ -39,3 +39,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mazyogz&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## Connect with me 
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "ari_yog")](https://www.instagram.com/ari_yog) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "ari-pras")]([https://www.linkedin.com/in/ari-pras](https://www.linkedin.com/in/ari-pras))
