@@ -6,8 +6,6 @@
 
 ###
 
-- 🎓 Studies for Informatics Systems at [UNMER](https://www.unmer.ac.id/)
-- 🏡 Lives in **Malang, Indonesia**
 - 📚 I'm currently learning Javascript and Python
 
 ###
